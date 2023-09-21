@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
+    border: 10px solid black;
+    margin: 2rem;
+}
+.four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.rgb1{
+    background-color: blueviolet;
+}
+.rgb2{
+    background-color: aqua;
+}
+.rgb3{
+    background-color: coral;
+}
+.rgb4{
+    background-color: rgb(139, 191, 42);
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
